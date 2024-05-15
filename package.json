@@ -1,0 +1,11 @@
+{
+  "name": "odin-drop-down-menu-and-image-carousel",
+  "version": "1.0.0",
+  "description": "A simple use drop down menu and image carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
